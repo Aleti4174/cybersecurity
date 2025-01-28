@@ -1,0 +1,6 @@
+Features:
+Encrypt a file using a secret key.
+Decrypt the file using the same secret key.
+Generate a secure AES key.
+Provide a user-friendly menu-driven interface.
+
